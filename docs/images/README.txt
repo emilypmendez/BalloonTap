@@ -1,1 +1,0 @@
-Folder contains game images
